@@ -1,0 +1,1 @@
+Natural Language Processing Level 4 coursework, exploring solutions to the FNC, Implemented GradientBoost, Custom Bi-Directional LSTM. with both BERT and custom TF-IDF embeddings. This coursework achieved a grade of 74%.
